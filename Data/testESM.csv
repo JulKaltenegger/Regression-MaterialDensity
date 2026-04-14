@@ -1,0 +1,65 @@
+materialCategory,Category,MaterialType,materialDensity,materialConductivity,materialHeatCapacity
+Brick,Masonry Materials: Masonry units,"Clay tile, hollow 1 cell deep 4 in",424.4892801000002,0.1137599999999998,1840.517279999999
+Wood,Building Board and Siding: Board,Waferboard,592.6831458,0.09072,1884.06
+Cement,Masonry Materials: Concrete blocks h,"Normal-weight aggregate (sand and gravel) 8 in 33 to 36 lb, 126 to 136 lb/ft3 concrete, with perlite-filled cores ",424.4892801000002,0.1137599999999998,1840.517279999999
+Alluminium,Building Board and Siding: Siding,"Aluminum, steel, or vinyl k over sheathing insulated vinyl siding 3/4 - 1 1/4 in m",424.4892801000002,0.1137599999999998,1840.517279999999
+Brick,Masonry Materials: Masonry units,"Brick, fired clay",2082.400242,1.0224,841.1281199999993
+Brick,Masonry Materials: Concrete blocks h,Gypsum partition tile 3 by 12 by 30 in solid 4 cells,424.4892801000002,0.1137599999999998,1840.517279999999
+Asphalt,"Metal roofing (See Chapter 33, Table 3)",Asphalt shingles,1121.292438,0.2707631999999996,1256.04
+Cement,Masonry Materials: Concretes,Polymer concrete,1954.2525348,1.6416,803.8655999999987
+Wood,Building Board and Siding: Board,Oriented strand board (OSB) 7/16 in,656.7569994,0.1269648,1884.06
+Cement,Plastering Materials,Sand aggregate,1681.938657,0.8063999999999999,837.36
+Brick,Masonry Materials: Masonry units,"Brick, fired clay",2242.584876,1.1808,861.2247599999994
+Cement,Masonry Materials: Concretes,Slag concrete,1601.84634,0.4319999999999999,880.06536
+Linoleum,Finish Flooring,Linoleum/cork tile 1/4 in,464.5354386,0.1207224000000002,1820.42064
+Cement,Masonry Materials: Concrete blocks h,"Lightweight aggregate (expanded shale, clay, slate or slag, pumice) 12 in 32 to 36 lb, 80 to 90 lb/ft3, concrete, with vermiculite-filled cores",424.4892801000002,0.1137599999999998,1840.517279999999
+Brick,Masonry Materials: Masonry units,"Brick, fired clay",1601.84634,0.6696,870.8544000000002
+Wood,Building Board and Siding: Board,"Vegetable fiber board sheathing, tile and lay-in panels, plain or acoustic",288.3323412,0.0576,586.152
+Cement,Masonry Materials: Concretes,"Lightweight aggregate or limestone concretes expanded shale, clay, or slate; expanded slags; cinders; pumice (with density up to 100 lb/ft3); scoria (sanded concretes have conductivities in higher end of range)",1922.215608,1.116,808.4710799999992
+Cement,Masonry Materials: Concrete blocks h,"Normal-weight aggregate (sand and gravel) 8 in 33 to 36 lb, 126 to 136 lb/ft3 concrete, with vermiculite-filled cores ",424.4892801000002,0.1137599999999998,1840.517279999999
+Brick,Masonry Materials: Masonry units,"Clay tile, hollow 1 cell deep 3 in",640.7385359999988,0.2001600000000002,879.228
+Alluminium,Building Board and Siding: Siding,"Aluminum, steel, or vinyl over sheathing k",424.4892801000002,0.1137599999999998,1840.517279999999
+Cement,Masonry Materials: Concrete blocks h,"Lightweight aggregate (expanded shale, clay, slate or slag, pumice) 12 in 32 to 36 lb, 80 to 90 lb/ft3, concrete, with perlite-filled cores",424.4892801000002,0.1137599999999998,1840.517279999999
+Rockwool,Insulating material: Loose fill,"Rock and slag wool d attics, ~3.5 - 4.5 in",24.82861827,0.04896,995.6210399999998
+Wood,Woods (12% moisture content) l: Softwoods,Softwoods,513.1514750189997,0.1410192000000001,1632.852
+Cement,Plastering Materials,Vermiculite aggregate.,640.7385360000001,0.20016,879.2280000000014
+Plastic,Finish Flooring,PVC/rubber floor covering,1124.49613068,0.4031999999999999,1034.139599999999
+Wood,Woods (12% moisture content) l: Hardwoods,Spruce (oven-dried),400.461585,0.09935999999999999,1884.06
+Mineralwool,"Insulating material: Blanket and batt c, d","Mineral wool, felted",32.0369268,0.04032,1098.61632
+Polyurethane,Insulating material: Spray applied,"Polyurethane foam medium density, closed cell, aged 180 days 1.9 - 3.2",32.99803460400001,0.02448,1580.935680000001
+Cement,Masonry Materials: Concretes,Foam concretes,1601.84634,0.5903999999999999,917.7465599999997
+Cellulose,Insulating material: Loose fill,"Cellulose fiber, attic application >4 in",22.42584876,0.0396,1107.82728
+Brick,Masonry Materials: Concrete blocks h,"Calcitic, dolomitic, limestone, marble, and granite",2242.584876,2.304,900.161999999998
+Cement,Plastering Materials,"Cement plaster, sand aggregate",1858.1417544,0.72,837.36
+Plastic,Finish Flooring,PVC/rubber floor covering rubber tile 1.0 in,1906.1971446,0.5760000000000004,1001.482559999999
+Brick,Masonry Materials: Concrete blocks h,"Calcitic, dolomitic, limestone, marble, and granite",1601.84634,1.152,822.7061999999999
+Brick,Masonry Materials: Concrete blocks h,"Limestone aggregate 12 in 55 lb, 138 lb/ft3 concrete, with perlite-filled cores ",424.4892801000002,0.1137599999999998,1840.517279999999
+Cement,Plastering Materials,"Sand/cement plaster, conditioned",1569.8094132,0.6336,889.2763199999999
+Cement,Masonry Materials: Concrete blocks h,"Lightweight aggregate (expanded shale, clay, slate or slag, pumice) 12 in 32 to 36 lb, 80 to 90 lb/ft3, concrete, 2 or 3 cores",424.4892801000002,0.1137599999999998,1840.517279999999
+Rockwool,"Insulating material: Blanket and batt c, d",Rock and slag wool batts,616.7108408999994,0.2015999999999995,837.36
+Polystyrene,Insulating material: Board and slabs,"Expanded polystyrene, molded beads",1121.292438000001,0.2482271999999997,1465.38
+Brick,Masonry Materials: Concrete blocks h,Quartzitic and sandstone,2562.954144,6.191999999999999,892.4164199999989
+Wood,"Metal roofing (See Chapter 33, Table 3)","Wood shingles, plain and plastic-film-faced",352.4061948000008,0.08208000000000014,1297.908
+Concrete,Insulating material: Board and slabs,"Cement fiber slabs, shredded wood with portland cement with magnesia oxysulfide binder",352.4061948,0.08207999999999999,1297.908
+Cement,Masonry Materials: Concrete blocks h,"Lightweight aggregate (expanded shale, clay, slate or slag, pumice) 8 in 19 to 22 lb, 72 to 86 lb/ft3 concretewith molded EPS inserts in cores",424.4892801000002,0.1137599999999998,1840.517279999999
+Cement,Masonry Materials: Concrete blocks h,"Lightweight aggregate (expanded shale, clay, slate or slag, pumice) 6 in 16 to 17 lb, 85 to 87 lb/ft3 concrete, with perlite-filled cores",424.4892801000002,0.1137599999999998,1840.517279999999
+Wood,Building Board and Siding: Siding,Asphalt insulating siding (1/2 in. bed),1922.215607999999,0.5760000000000004,1004.832
+Gypsum,Plastering Materials,Gypsum plaster,1121.292438,0.3787199999999999,1076.007599999999
+Cement,Masonry Materials: Concretes,Foam concretes,1281.477072,0.4319999999999999,866.6676000000003
+Glass,Insulating material: Loose fill,Glass fiber d closed attic or wall cavities,32.83784997,0.03527999999999999,1257.71472
+Wood,Building Board and Siding: Board,Oriented strand board (OSB) 1/2 in,656.7569994,0.1269648,1884.06
+Cement,Masonry Materials: Concrete blocks h,"Lightweight aggregate (expanded shale, clay, slate or slag, pumice) 8 in 19 to 22 lb, 72 to 86 lb/ft3 concrete with perlite-filled cores",424.4892801000002,0.1137599999999998,1840.517279999999
+Wood,Building Board and Siding: Board,"Vegetable fiber board sheathing, shingle backer 3/8 in",288.3323412,0.07549920000000006,1256.04
+Brick,Masonry Materials: Masonry units,"Clay tile, hollow 3 cells deep 12 in",424.4892801000002,0.1137599999999998,1840.517279999999
+Brick,Masonry Materials: Masonry units,"Clay tile, hollow 2 cells deep 6 in",424.4892801000002,0.1137599999999998,1840.517279999999
+Wood,Building Board and Siding: Board,Hardboard medium density.,800.92317,0.10512,1297.908
+Cement,Building Board and Siding: Board,Fiber/cement board,977.1262674000001,0.1872,837.36
+Cement,Masonry Materials: Concretes,"Cement/lime, mortar, and stucco",1281.477072,0.6479999999999999,869.1796800000002
+Cement,Masonry Materials: Concretes,Polymer cement,1874.1602178,0.7761599999999999,831.9171600000002
+Polystyrene,Insulating material: Board and slabs,"Extruded polystyrene, smooth skin aged 180 days",40.0461585,0.0288,1580.935680000001
+Cement,Masonry Materials: Concretes,Foam concretes,1121.292438,0.36,1101.128399999999
+Rubber,Insulating material: Board and slabs,Expanded rubber (rigid),64.0738536,0.0288,1674.72
+Brick,Masonry Materials: Masonry units,"Brick, fired clay",1762.030974,0.7776000000000001,835.6852800000004
+Wood,Building Board and Siding: Board,"Vegetable fiber board sheathing, laminated paperboard",480.5539020000001,0.072,1381.644
+Rockwool,"Insulating material: Blanket and batt c, d",Rock and slag wool batts,44.85169752,0.03384,1328.05296
+Cement,Building Board and Siding: Siding,Asphalt roll siding,1121.292438000001,0.2482271999999997,1465.38
